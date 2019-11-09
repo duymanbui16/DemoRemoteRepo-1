@@ -5,4 +5,17 @@ Lorem ipsum
 
 Được thêm tại feature
 
+<<<<<<< HEAD
 tao la man
+=======
+
+Linh ne hihihihihihihihihihihhi :>
+1234567890 tooi la huy
+
+hehehehehehehehehehehehhehehehehehehehe
+
+toi khong bi conflict nha cac ban 
+123345
+1234567890 tooi la huy
+
+>>>>>>> 5626ce5a97e35c08a0de117270819d9d67aacb1c
