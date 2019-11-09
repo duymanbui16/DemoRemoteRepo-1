@@ -4,3 +4,6 @@ Sửa đổi tại master
 Lorem ipsum
 
 Được thêm tại feature
+
+toi khong bi conflict nha cac ban 
+123345
